@@ -14,6 +14,8 @@
 - JavaScript
 - Vite
 - SCSS
+- axios
+- tanstack/react-query
 - react-router-dom
 - react-hook-form
 - react-select

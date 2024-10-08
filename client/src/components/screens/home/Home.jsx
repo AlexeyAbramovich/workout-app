@@ -10,7 +10,7 @@ function Home() {
 	return (
 		<Layout bgImage='/images/home-bg.png'>
 			<Button clickHandler={() => navigate('/new-workout')}>New</Button>
-			<h1 className={styles.heading}>EXERCISES FOR THE BICEPS</h1>
+			<h1 className={styles.heading}>BEAST MODE ACTIVATED</h1>
 			<Statistics />
 		</Layout>
 	)

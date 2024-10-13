@@ -6,7 +6,6 @@
 - Implementation of routing and private routes
 - Completing exercise/workout
 
-/* This app was developed during the course on htmllessons.io. */
 
 # Used technologies
 ## Frontend
